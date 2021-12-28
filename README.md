@@ -6,5 +6,3 @@ Eine VDR-App für Android-OS. Sie ermöglicht unter anderem
 - Eine Suchtimerübersicht mit bearbeiten und löschen
 - Eine Übersicht über die Aufnahmen mit zwei Ansichten (Baumstruktur, Liste). Dazu Sortier- und Filterfunktionen
 - Eine Fernbedienung
-
-eine nähere Beschreibung fin des sich im Wiki.
