@@ -14,7 +14,10 @@ Eine App für Android-OS zum Bedienen eines VDR. Sie ermöglicht unter anderem
 Auf dem VDR muß das Plugin RestfulApi installiert sein. Weitere Maßnahmen sind nicht erforderlich.
 
 ## Programm
+Zeigt eine Programmübersicht
+![screenshot](.images/programm.jpg)
 ## Timer
+![Timerliste](.images/timerliste.jpg)
 ## Suchtimer
 ## Aufnahmen
 ## test
