@@ -18,16 +18,14 @@ Anstatt der Kanalnummer können auch Kanalicons ausgegeben werden.
 ## Programm
 Über die Programmübersicht (EPG) lassen sich die üblichen Funktionen eines VDR abrufen: **Was läuft jetzt?**, **Was läuft als nächstes?**". Über Uhrzeit kann auch ein beliebiger Zeitpunkt gewählt werden, ab dem das EPG angezeigt werden soll. Wird die Uhrzeit abgespeichert, erscheint eine zusätzliche Drowdownliste mit allen individuell angelegten Uhrzeiten. Die Liste läßt sich in den Einstellungen bearbeiten. 
 
-<details>
-  
 | Bild | Text |
 | --- | --- |
-|![screenshot](.images/programm.jpg) | Hier steht Text |
+|<img src=".images/programm.jpg" width=25%> | Hier steht Text |
   
-</details>
   
 ## Timer
-![Timerliste](.images/timerliste.jpg)
+<img src=".images/timerliste.jpg" width=25%>
+
 ## Suchtimer
 ## Aufnahmen
 ## test
