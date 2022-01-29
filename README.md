@@ -1,3 +1,11 @@
+## Inhaltsangabe
+
+* Übersicht
+
+
+## Voraussetzung
+
+## Installation
 Eine VDR-App für Android-OS. Sie ermöglicht unter anderem
 
 - Eine Programmübersicht anzeigen (Was läuft jetzt, als Nächstes etc.)
