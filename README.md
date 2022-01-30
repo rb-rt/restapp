@@ -16,12 +16,49 @@ Auf dem VDR muß das Plugin RestfulApi installiert sein. Weitere Maßnahmen sind
 Anstatt der Kanalnummer können auch Kanalicons ausgegeben werden. 
 
 ## Programm
-Über die Programmübersicht (EPG) lassen sich die üblichen Funktionen eines VDR abrufen: **Was läuft jetzt?**, **Was läuft als nächstes?**". Über Uhrzeit kann auch ein beliebiger Zeitpunkt gewählt werden, ab dem das EPG angezeigt werden soll. Wird die Uhrzeit abgespeichert, erscheint eine zusätzliche Drowdownliste mit allen individuell angelegten Uhrzeiten. Die Liste läßt sich in den Einstellungen bearbeiten. 
 
-| Bild | Text |
-| --- | --- |
-|<img src=".images/programm.jpg" width=25%> | Hier steht Text |
-  
+<table>
+  <tr>
+    <td>
+    <img src=".images/programm.jpg">
+    </td>
+    <td>
+      <p>Über die Programmübersicht (EPG) lassen sich die üblichen Funktionen eines VDR abrufen: <b>Was läuft jetzt?</b>, <b>Was läuft als nächstes?</b>". Über Uhrzeit kann auch ein beliebiger Zeitpunkt gewählt werden, ab dem das EPG angezeigt werden soll. Wird die Uhrzeit abgespeichert, erscheint eine zusätzliche Drowdownliste mit allen individuell angelegten Uhrzeiten. Die Liste läßt sich in den Einstellungen bearbeiten. 
+      </p>
+      <p>Ein Fingertip auf die Kanalnummer (oder Kanalicon) zeigt das Programm des ausgewählten Kanals an. Es erscheint dann im Kopfbereich eine Liste über die ein anderer Kanal ausgewählt werden kann.</p> 
+      <p>
+        Tippt man auf die Beschreibung erscheint ein weiteres Fenster mit Detailinformationen.
+      </p>
+      <p>
+        Hinweis: Die Fußzeile besitzt zwei Ansichten. Mit einem Wischer erscheint auf der zweiten Seite ein Textfilter, der sich nur auf das angezeigte EPG auswirkt.
+      </p>
+    </td>
+  </tr>
+</table>
+      
+<table>
+  <tr>
+    <td>
+      <img src=".images/timer.png">
+     </td>
+     <td><p>Über das Timersymbol kann ein Timer angelegt oder bearbeitet werden. Bei einem neuen Timer werden der Kanal und die Uhrzeit übernommen. Die Voreinstellungen wie Vorlauf, Nachlauf, Priorität und Lebensdauer werden berücksichtigt.</p>
+    </td>
+    </tr>
+  <tr>
+    <td>
+      <img src=".images/timer-inactive.png">
+     </td>
+    <td>Ein inaktiver Timer</td>
+    <tr>
+      <td>
+      <img src=".images/timer-active.png">
+     </td>
+    <td>
+      <p>Aktiver Timer</p>
+    </td>
+        </tr>
+</table>
+
   
 ## Timer
 <img src=".images/timerliste.jpg" width=25%>
