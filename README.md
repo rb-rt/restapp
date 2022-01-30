@@ -11,7 +11,7 @@ Eine App für Android-OS zum Bedienen eines VDR. Sie ermöglicht unter anderem
 
 ## Voraussetzung
 
-Auf dem VDR muß das Plugin RestfulApi installiert sein. Weitere Maßnahmen sind nicht erforderlich. 
+Auf dem VDR sind die Plugins RestfulApi und EPGSearch notwendig. Weitere Maßnahmen sind nicht erforderlich. 
 
 Anstatt der Kanalnummer können auch Kanalicons ausgegeben werden. 
 
@@ -48,7 +48,7 @@ Anstatt der Kanalnummer können auch Kanalicons ausgegeben werden.
     <td>
       <img src=".images/timer-inactive.png">
      </td>
-    <td>Ein inaktiver Timer</td>
+    <td>Inaktiver Timer</td>
     <tr>
       <td>
       <img src=".images/timer-active.png">
@@ -57,6 +57,15 @@ Anstatt der Kanalnummer können auch Kanalicons ausgegeben werden.
       <p>Aktiver Timer</p>
     </td>
         </tr>
+  <tr>
+    <td>
+      <img src=".images/search.png">
+    </td>
+    <td>
+      <p>Sucht nach Wiederholungen im EPG. Dabei wird der Titel übernommen und der Kanal voreingestellt. Im Dialog läßt sich die Suche noch verfeinern mit allen Parametern, die der VDR zur Verfügung stellt. Jede Suche wird abgespeichert und läßt sich über den Button <i>Suche</i> wieder aufrufen. Ist man mit dem Ergebnis zufrieden, kann ein (inaktiver) Suchtimer angelegt werden.
+      </p>
+    </td>
+  </tr>
 </table>
 
   
