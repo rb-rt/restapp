@@ -19,9 +19,9 @@ Anstatt der Kanalnummer können auch Kanalicons ausgegeben werden.
 
 <img src=".images/programm.jpg" width=33%>
 
-Über die Programmübersicht (EPG) lassen sich die üblichen Funktionen eines VDR abrufen: **Was läuft jetzt?**, **Was läuft als nächstes?**". Über ***Uhrzeit*** kann auch ein beliebiger Zeitpunkt gewählt werden, ab dem das EPG angezeigt werden soll. Wird die Uhrzeit abgespeichert, erscheint eine zusätzliche Drowdownliste mit allen individuell angelegten Uhrzeiten (***Um...***). Die Liste läßt sich in den Einstellungen bearbeiten.
+Über die Programmübersicht (EPG) lassen sich die üblichen Funktionen eines VDR abrufen: **Was läuft jetzt?**, **Was läuft als nächstes?**". Über ***Uhrzeit*** kann auch ein beliebiger Zeitpunkt gewählt werden, ab dem das EPG angezeigt werden soll. Wird die Uhrzeit abgespeichert erscheint eine zusätzliche Drowdownliste mit allen individuell angelegten Uhrzeiten (***Um...***). Die Liste läßt sich in den Einstellungen bearbeiten.
 
-Ein Fingertip auf die Kanalnummer (oder Kanalicon) zeigt das Programm des ausgewählten Kanals an. Es erscheint dann im Kopfbereich eine Liste über die ein anderer Kanal ausgewählt werden kann.
+Ein Tipper auf die Kanalnummer (oder Kanalicon) zeigt das Programm des ausgewählten Kanals an. Es erscheint dann im Kopfbereich eine Liste, über die ein anderer Kanal ausgewählt werden kann.
 
 Tippt man auf die Beschreibung erscheint ein weiteres Fenster mit Detailinformationen.  
 
