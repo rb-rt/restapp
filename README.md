@@ -55,7 +55,7 @@ Tippt man auf die Beschreibung erscheint ein weiteres Fenster mit Detailinformat
 | ![](.images/manualtimer-inactive.png) | Ein manuell angelegter inaktiver Timer. Entweder ein einmaliger oder wiederholender Timer, wie sie der VDR standarmäßig zur Verfügung stellt. |
 | ![](.images/manualtimer-active.png) | Der Timer ist aktiv. |
 | ![](.images/searchtimer-inactive.png) | Ein von einer Suche automatisch angelegter inaktiver Timer. Solche Suchtimer werden über das Plugin EPGSearch zur Verfügung gestellt und werden über den Programmteil Suchtimer verwaltet. | 
-| ![](.images/searchtimer-active.png) | Der Suchtimer ist aktiv und das dazugehörige Ereignis wird aufgnommen. |
+| ![](.images/searchtimer-active.png) | Ein aktiver Timer von einem Suchtimer erzeugt. |
 | ![](.images/edit.png) | Timer bearbeiten |
 | ![](.images/trash.png) | Timer löschen |
 
@@ -69,7 +69,7 @@ Suchtimer werden vom Plugin EPGSearch bereitgestellt. Sie durchsuchen das EPG un
 | ![](.images/manualtimer-inactive.png) | Der Suchtimer ist nicht aktiv, d.h. in den Suchkriterien ist das Feld *Als Suchtimer verwenden* nicht gesetzt.  |
 | ![](.images/manualtimer-active.png) | Ein aktiver Suchtimer. Das Feld *Als Suchtimer verwenden* ist angekreuzt. Es sagt aber nichts darüber aus, welche Aktion ausgeführt wird *(Aufnehmen, per OSD ankündigen, ...)*. |
 | ![](.images/edit.png) | Suchtimer bearbeiten |
-| ![](.images/search.png) | Sucht im EPG mit den Suchparametern und zeigt alle Treffer an. Das Timersymbol gibt Auskunft über den Status (aktiv/inaktiv). | 
+| ![](.images/search.png) | Sucht im EPG mit den eingestellten Suchparametern und zeigt alle Treffer an. Das Timersymbol gibt Auskunft über den Status (aktiv/inaktiv). | 
 | ![](.images/trash.png) | Suchtimer löschen |
 
 
