@@ -78,81 +78,23 @@ Anstatt der Kanalnummer können auch Kanalicons ausgegeben werden.
   
 ## Timer
 
-<table>
-  <tr>
-    <td>
-    <img src=".images/timerliste.jpg">
-    </td>
-    <td>
-      <p>Die Timerliste unterscheidet sich in einem Punkt von den anderen Programmbereichen. Sie wird lediglich beim Programmstart einmal abgerufen und enthält auch keine Ereignisse zu den Timern. So wie es der VDR in seinem OSD auch anzeigt. Es kann also durchaus vorkommen, daß ein bereits veralteter Timer noch vorhanden ist.</p>
-      <p>Über den Button <i>Aktualisieren</i> im Fußbereich holt man sich die aktuelle Timerliste und ebenfalls die dazugehörigen Programmbeschreibungen.</p>
-      <p>Ein Fingertip auf die Kanalnummer (oder Kanalicon) zeigt das EPG des ausgewählten Kanals an.</p> 
-      <p>
-        Tippt man auf die Beschreibung erscheint ein weiteres Fenster mit Detailinformationen.
-      </p>
-    </td>
-  </tr>
-</table>
-      
-<table>
-  <tr>
-    <td>
-      <img src=".images/manualtimer-inactive.png">
-     </td>
-     <td><p>Ein manuell angelegter inaktiver Timer. Entweder ein einmaliger oder wiederholender Timer, wie sie der VDR standarmäßig zur Verfügung stellt.</p>
-    </td>
-    </tr>
-  <tr>
-    <td>
-      <img src=".images/manualtimer-active.png">
-     </td>
-    <td>Der Timer ist aktiv.</td>
-    <tr>
-      <td>
-      <img src=".images/searchtimer-inactive.png">
-     </td>
-    <td>
-      <p>Ein von einer Suche automatisch angelegter inaktiver Timer. Solche Suchtimer werden über das Plugin EPGSearch zur Verfügung gestellt und werden über den Programmteil Suchtimer verwaltet.</p>
-    </td>
-        </tr>
-  <tr>
-    <td>
-      <img src=".images/searchtimer-active.png">
-    </td>
-    <td>
-      <p>Der Suchtimer ist aktiv und das dazugehörige Ereignis wird aufgnommen.</p>
-    </td>
-  </tr>
-      <tr>
-      <td>
-      <img src=".images/edit.png">
-     </td>
-    <td>
-      <p>Timer bearbeiten</p>
-    </td>
-        </tr>
-  <tr>
-      <tr>
-      <td>
-      <img src=".images/trash.png">
-     </td>
-    <td>
-      <p>Timer löschen</p>
-    </td>
-        </tr>
-  <tr>
-</table>
+![Timerliste](.images/timerliste.jpg)
+
+Die Timerliste unterscheidet sich in einem Punkt von den anderen Programmbereichen. Sie wird lediglich beim Programmstart einmal abgerufen und enthält auch keine Ereignisse zu den Timern. So wie es der VDR in seinem OSD auch anzeigt. Es kann also durchaus vorkommen, daß ein bereits veralteter Timer noch vorhanden ist. 
+Über den Button <i>Aktualisieren</i> im Fußbereich holt man sich die aktuelle Timerliste und ebenfalls die dazugehörigen Programmbeschreibungen. 
+Ein Fingertip auf die Kanalnummer (oder Kanalicon) zeigt das EPG des ausgewählten Kanals an. 
+Tippt man auf die Beschreibung erscheint ein weiteres Fenster mit Detailinformationen. 
 
 **Hinweis:** Die Timericons schalten den jeweiligen Status sofort um. So wird ein aktiver Timer deaktiviert und umgekehrt.
 
 | Icon | Beschreibung |
 | --- | --- |
 | ![](.images/manualtimer-inactive.png) | Ein manuell angelegter inaktiver Timer. Entweder ein einmaliger oder wiederholender Timer, wie sie der VDR standarmäßig zur Verfügung stellt. |
-| <img src=".images/manualtimer-active.png"> | Der Timer ist aktiv. |
-| <img src=".images/searchtimer-inactive.png"> | Ein von einer Suche automatisch angelegter inaktiver Timer. Solche Suchtimer werden über das Plugin EPGSearch zur Verfügung gestellt und werden über den Programmteil Suchtimer verwaltet. | 
-| <img src=".images/searchtimer-active.png"> | Der Suchtimer ist aktiv und das dazugehörige Ereignis wird aufgnommen. |
-| <img src=".images/edit.png"> | Timer bearbeiten |
-| <img src=".images/trash.png"> | Timer löschen |
+| ![](.images/manualtimer-active.png) | Der Timer ist aktiv. |
+| ![](.images/searchtimer-inactive.png) | Ein von einer Suche automatisch angelegter inaktiver Timer. Solche Suchtimer werden über das Plugin EPGSearch zur Verfügung gestellt und werden über den Programmteil Suchtimer verwaltet. | 
+| ![](.images/searchtimer-active.png) | Der Suchtimer ist aktiv und das dazugehörige Ereignis wird aufgnommen. |
+| ![](.images/edit.png) | Timer bearbeiten |
+| ![](.images/trash.png) | Timer löschen |
 
 
 ## Suchtimer
