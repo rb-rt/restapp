@@ -38,7 +38,7 @@ Hinweis: Die Fußzeile besitzt zwei Ansichten. Mit einem Wischer erscheint auf d
   
 ## Timer
 
-![Timerliste](.images/timerliste.jpg)
+<img src=".images/timerliste.jpg" width=33%>
 
 Die Timerliste unterscheidet sich in einem Punkt von den anderen Programmbereichen. Sie wird lediglich beim Programmstart einmal abgerufen und enthält auch keine Ereignisse zu den Timern. So wie es der VDR in seinem OSD auch anzeigt. Es kann also durchaus vorkommen, daß ein bereits veralteter Timer noch vorhanden ist.
 
@@ -61,6 +61,8 @@ Tippt man auf die Beschreibung erscheint ein weiteres Fenster mit Detailinformat
 
 
 ## Suchtimer
+
+<img src=".images/suchtimerliste.jpg" width=33%>
 
 Suchtimer werden vom Plugin EPGSearch bereitgestellt. Sie durchsuchen das EPG und setzen automatisch einen Timer, wenn die Suchkriterien zutreffen. Eine genaue Beschreibung findet man bei der Dokumentation. Suchtimer werden in der Timerliste mit einem anderen Icon gekennzeichnet.
 
