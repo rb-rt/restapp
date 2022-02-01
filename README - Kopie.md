@@ -145,16 +145,6 @@ Anstatt der Kanalnummer können auch Kanalicons ausgegeben werden.
 
 **Hinweis:** Die Timericons schalten den jeweiligen Status sofort um. So wird ein aktiver Timer deaktiviert und umgekehrt.
 
-| Icon | Beschreibung |
-| --- | --- |
-| <img src=".images/manualtimer-inactive.png"> | Ein manuell angelegter inaktiver Timer. Entweder ein einmaliger oder wiederholender Timer, wie sie der VDR standarmäßig zur Verfügung stellt. |
-| <img src=".images/manualtimer-active.png"> | Der Timer ist aktiv. |
-| <img src=".images/searchtimer-inactive.png"> | Ein von einer Suche automatisch angelegter inaktiver Timer. Solche Suchtimer werden über das Plugin EPGSearch zur Verfügung gestellt und werden über den Programmteil Suchtimer verwaltet. | 
-| <img src=".images/searchtimer-active.png"> | Der Suchtimer ist aktiv und das dazugehörige Ereignis wird aufgnommen. |
-| <img src=".images/edit.png"> | Timer bearbeiten |
-| <img src=".images/trash.png"> | Timer löschen |
-
-
 ## Suchtimer
 ## Aufnahmen
 ## test
