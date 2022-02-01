@@ -17,74 +17,30 @@ Anstatt der Kanalnummer können auch Kanalicons ausgegeben werden.
 
 ## Programm
 
-<table>
-  <tr>
-    <td>
-    <img src=".images/programm.jpg">
-    </td>
-    <td>
-      <p>Über die Programmübersicht (EPG) lassen sich die üblichen Funktionen eines VDR abrufen: <b>Was läuft jetzt?</b>, <b>Was läuft als nächstes?</b>". Über Uhrzeit kann auch ein beliebiger Zeitpunkt gewählt werden, ab dem das EPG angezeigt werden soll. Wird die Uhrzeit abgespeichert, erscheint eine zusätzliche Drowdownliste mit allen individuell angelegten Uhrzeiten (<i>Um...</i>). Die Liste läßt sich in den Einstellungen bearbeiten. 
-      </p>
-      <p>Ein Fingertip auf die Kanalnummer (oder Kanalicon) zeigt das Programm des ausgewählten Kanals an. Es erscheint dann im Kopfbereich eine Liste über die ein anderer Kanal ausgewählt werden kann.</p> 
-      <p>
-        Tippt man auf die Beschreibung erscheint ein weiteres Fenster mit Detailinformationen.
-      </p>
-      <p>
-        Hinweis: Die Fußzeile besitzt zwei Ansichten. Mit einem Wischer erscheint auf der zweiten Seite ein Textfilter, der sich nur auf das angezeigte EPG auswirkt.
-      </p>
-    </td>
-  </tr>
-</table>
-      
-<table>
-  <tr>
-    <td>
-      <img src=".images/timer.png">
-     </td>
-     <td><p>Über das Timersymbol kann ein Timer angelegt oder bearbeitet werden. Bei einem neuen Timer werden der Kanal und die Uhrzeit übernommen. Die Voreinstellungen wie Vorlauf, Nachlauf, Priorität und Lebensdauer werden berücksichtigt.</p>
-    </td>
-    </tr>
-  <tr>
-    <td>
-      <img src=".images/timer-inactive.png">
-     </td>
-    <td>Inaktiver Timer</td>
-    <tr>
-      <td>
-      <img src=".images/timer-active.png">
-     </td>
-    <td>
-      <p>Aktiver Timer</p>
-    </td>
-        </tr>
-  <tr>
-    <td>
-      <img src=".images/search.png">
-    </td>
-    <td>
-      <p>Sucht nach Wiederholungen im EPG. Dabei wird der Titel übernommen und der Kanal voreingestellt. Im Dialog läßt sich die Suche noch verfeinern mit allen Parametern, die der VDR bzw. das Plugin EPGSearch zur Verfügung stellt. Jede Suche wird abgespeichert und läßt sich über den Button <i>Suche</i> wieder aufrufen. Ist man mit dem Ergebnis zufrieden, kann ein (inaktiver) Suchtimer angelegt werden.
-      </p>
-    </td>
-  </tr>
-      <tr>
-      <td>
-      <img src=".images/switch.png">
-     </td>
-    <td>
-      <p>Schaltet auf den Kanal um.</p>
-    </td>
-  </tr>
-</table>
+![](.images/programm.jpg)
+
+Über die Programmübersicht (EPG) lassen sich die üblichen Funktionen eines VDR abrufen: *Was läuft jetzt?*, **Was läuft als nächstes?**". Über Uhrzeit kann auch ein beliebiger Zeitpunkt gewählt werden, ab dem das EPG angezeigt werden soll. Wird die Uhrzeit abgespeichert, erscheint eine zusätzliche Drowdownliste mit allen individuell angelegten Uhrzeiten (<i>Um...</i>). Die Liste läßt sich in den Einstellungen bearbeiten.  
+Ein Fingertip auf die Kanalnummer (oder Kanalicon) zeigt das Programm des ausgewählten Kanals an. Es erscheint dann im Kopfbereich eine Liste über die ein anderer Kanal ausgewählt werden kann.  
+Tippt man auf die Beschreibung erscheint ein weiteres Fenster mit Detailinformationen.  
+Hinweis: Die Fußzeile besitzt zwei Ansichten. Mit einem Wischer erscheint auf der zweiten Seite ein Textfilter, der sich nur auf das angezeigte EPG auswirkt.  
+
+| Icon | Beschreibung |
+| --- | ---|
+|![](.images/timer.png) | Über das Timersymbol kann ein Timer angelegt oder bearbeitet werden. Bei einem neuen Timer werden der Kanal und die Uhrzeit übernommen. Die Voreinstellungen wie Vorlauf, Nachlauf, Priorität und Lebensdauer werden berücksichtigt. |
+| ![](.images/timer-inactive.png) | Inaktiver Timer |
+| ![](.images/timer-active.png) | Aktiver Timer |
+| ![](.images/search.png) | Sucht nach Wiederholungen im EPG. Dabei wird der Titel übernommen und der Kanal voreingestellt. Im Dialog läßt sich die Suche noch verfeinern mit allen Parametern, die der VDR bzw. das Plugin EPGSearch zur Verfügung stellt. Jede Suche wird abgespeichert und läßt sich über den Button <i>Suche</i> wieder aufrufen. Ist man mit dem Ergebnis zufrieden, kann ein (inaktiver) Suchtimer angelegt werden. |
+| ![](.images/switch.png) | Schaltet auf den Kanal um. |
+
   
 ## Timer
 
 ![Timerliste](.images/timerliste.jpg)
 
-Die Timerliste unterscheidet sich in einem Punkt von den anderen Programmbereichen. Sie wird lediglich beim Programmstart einmal abgerufen und enthält auch keine Ereignisse zu den Timern. So wie es der VDR in seinem OSD auch anzeigt. Es kann also durchaus vorkommen, daß ein bereits veralteter Timer noch vorhanden ist. 
-Über den Button <i>Aktualisieren</i> im Fußbereich holt man sich die aktuelle Timerliste und ebenfalls die dazugehörigen Programmbeschreibungen. 
-Ein Fingertip auf die Kanalnummer (oder Kanalicon) zeigt das EPG des ausgewählten Kanals an. 
-Tippt man auf die Beschreibung erscheint ein weiteres Fenster mit Detailinformationen. 
-
+Die Timerliste unterscheidet sich in einem Punkt von den anderen Programmbereichen. Sie wird lediglich beim Programmstart einmal abgerufen und enthält auch keine Ereignisse zu den Timern. So wie es der VDR in seinem OSD auch anzeigt. Es kann also durchaus vorkommen, daß ein bereits veralteter Timer noch vorhanden ist.  
+Über den Button <i>Aktualisieren</i> im Fußbereich holt man sich die aktuelle Timerliste und ebenfalls die dazugehörigen Programmbeschreibungen.  
+Ein Fingertip auf die Kanalnummer (oder Kanalicon) zeigt das EPG des ausgewählten Kanals an.  
+Tippt man auf die Beschreibung erscheint ein weiteres Fenster mit Detailinformationen.  
 **Hinweis:** Die Timericons schalten den jeweiligen Status sofort um. So wird ein aktiver Timer deaktiviert und umgekehrt.
 
 | Icon | Beschreibung |
