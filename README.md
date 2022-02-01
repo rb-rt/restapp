@@ -37,10 +37,14 @@ Hinweis: Die Fußzeile besitzt zwei Ansichten. Mit einem Wischer erscheint auf d
 
 ![Timerliste](.images/timerliste.jpg)
 
-Die Timerliste unterscheidet sich in einem Punkt von den anderen Programmbereichen. Sie wird lediglich beim Programmstart einmal abgerufen und enthält auch keine Ereignisse zu den Timern. So wie es der VDR in seinem OSD auch anzeigt. Es kann also durchaus vorkommen, daß ein bereits veralteter Timer noch vorhanden ist.  
-Über den Button <i>Aktualisieren</i> im Fußbereich holt man sich die aktuelle Timerliste und ebenfalls die dazugehörigen Programmbeschreibungen.  
-Ein Fingertip auf die Kanalnummer (oder Kanalicon) zeigt das EPG des ausgewählten Kanals an.  
-Tippt man auf die Beschreibung erscheint ein weiteres Fenster mit Detailinformationen.  
+Die Timerliste unterscheidet sich in einem Punkt von den anderen Programmbereichen. Sie wird lediglich beim Programmstart einmal abgerufen und enthält auch keine Ereignisse zu den Timern. So wie es der VDR in seinem OSD auch anzeigt. Es kann also durchaus vorkommen, daß ein bereits veralteter Timer noch vorhanden ist.
+
+Über den Button **Aktualisieren** im Fußbereich holt man sich die aktuelle Timerliste und ebenfalls die dazugehörigen Programmbeschreibungen.
+
+Ein Fingertip auf die Kanalnummer (oder Kanalicon) zeigt das EPG des ausgewählten Kanals an.
+
+Tippt man auf die Beschreibung erscheint ein weiteres Fenster mit Detailinformationen.
+
 **Hinweis:** Die Timericons schalten den jeweiligen Status sofort um. So wird ein aktiver Timer deaktiviert und umgekehrt.
 
 | Icon | Beschreibung |
