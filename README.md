@@ -58,6 +58,19 @@ Tippt man auf die Beschreibung erscheint ein weiteres Fenster mit Detailinformat
 
 
 ## Suchtimer
+
+Suchtimer werden vom Plugin EPGSearch bereitgestellt. Sie durchsuchen das EPG und setzen automatisch einen Timer, wenn die Suchkriterien zutreffen. Eine genaue Beschreibung findet man bei der Dokumentation. Suchtimer werden in der Timerliste gesondert gekennzeichnet.
+
+| Icon | Beschreibung |
+| --- | --- |
+| ![](.images/manualtimer-inactive.png) | Der Suchtimer ist nicht aktiv, d.h. in den Suchkriterien ist das Feld **Als Suchtimer verwenden** nicht gesetzt.  |
+| ![](.images/manualtimer-active.png) | Ein aktiver Suchtimer. Das Feld **Als Suchtimer verwenden** ist angekreuzt. Es sagt aber nichts darüber aus, welche Aktion ausgeführt wird *(Aufnehmen, per OSD ankündigen, ...)*. |
+| ![](.images/edit.png) | Suchtimer bearbeiten |
+| ![](.images/search.png) | Sucht im EPG mit den Suchparametern und zeigt alle Treffer an. Das Timersymbol gibt Auskunft über den Status (aktiv/inaktiv). | 
+| ![](.images/trash.png) | Suchtimer löschen |
+
+
+
 ## Aufnahmen
 ## test
 ## Installation
