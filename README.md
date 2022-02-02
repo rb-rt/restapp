@@ -27,7 +27,7 @@ Tippt man auf die Beschreibung erscheint ein weiteres Fenster mit Detailinformat
 Hinweis: Die Fußzeile besitzt zwei Ansichten. Mit einem Wischer erscheint auf der zweiten Seite ein Textfilter, der sich nur auf das angezeigte EPG auswirkt.  
 
 | Icon | Beschreibung |
-| --- | ---|
+| --- | :--- | 
 |![](.images/timer.png) | Über das Timersymbol kann ein Timer angelegt oder bearbeitet werden. Bei einem neuen Timer werden der Kanal und die Uhrzeit übernommen. Die Voreinstellungen wie Vorlauf, Nachlauf, Priorität und Lebensdauer werden berücksichtigt. |
 | ![](.images/timer-inactive.png) | Inaktiver Timer |
 | ![](.images/timer-active.png) | Aktiver Timer |
