@@ -82,7 +82,8 @@ Suchtimer werden vom Plugin EPGSearch bereitgestellt. Sie durchsuchen das EPG un
 Bei den Aufnahmen gibt es zwei Ansichten mit unterschiedlichen Sortier- und Filterfunktionen. In den Einstellungen kann voreingestellt werden, welche Ansicht standardmäßig aktiv sein soll.
 
 ### Baumansicht
-Die Baumansicht zeigt die Aufnahmen so wie der VDR in einer Baumstruktur mit Ordnern und Videodateien. Die Sortierung wirkt sich nur auf die Videodateien aus. Sortiert werden kann nach Aufnahmedatum oder Titel. **Hinweis:** Um eine Ebene höher zu gelangen muß das Icon (Pfeil nach oben) im Kopfbereich genutzt werden.
+Die Baumansicht zeigt die Aufnahmen so wie der VDR in einer Baumstruktur mit Ordnern und Videodateien. Die Sortierung wirkt sich nur auf die Videodateien aus. Sortiert werden kann nach Aufnahmedatum oder Titel.  
+**Hinweis:** Um eine Ebene höher zu gelangen muß das Icon (Pfeil nach oben) im Kopfbereich genutzt werden.
 
 ### Listenansicht
 Die Listenansicht zeigt alle Videodateien in einer einzigen Liste an. Sie kann nach Aufnahmedatum oder alphabetisch nach dem Titel sortiert werden, auch in umgekehrter Reihenfolge. Daneben existiert im Fußbereich noch eine zweite Seite mit einem Textfilter, der sowohl Titel als auch Untertitel durchsucht.
@@ -90,5 +91,5 @@ Die Listenansicht zeigt alle Videodateien in einer einzigen Liste an. Sie kann n
 
 | Icon/Farbe | Beschreibung |
 | --- | --- |
-| ![](.images/videfile-new.png) | Blau: Die Aufnahme wurde vom VDR als neu eingestuft. Bereits abgespielte Aufnahmen sind weiß. |
+| ![](.images/videofile-new.png) | Blau: Die Aufnahme wurde vom VDR als neu eingestuft. Bereits abgespielte Aufnahmen sind weiß. |
 | ![](.images/videofile-cut.png) | Die Schere zeigt eine geschnittene Aufnahme an. Bei den Farben gilt dasselbe wie oben. |
