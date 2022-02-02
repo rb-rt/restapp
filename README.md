@@ -52,7 +52,7 @@ Tippt man auf die Beschreibung erscheint ein weiteres Fenster mit Detailinformat
 
 | Icon | Beschreibung |
 | --- | --- |
-| ![](.images/manualtimer-inactive.png) | Ein manuell angelegter inaktiver Timer. Entweder ein einmaliger oder wiederholender Timer, wie sie der VDR standarmäßig zur Verfügung stellt. |
+| ![](.images/manualtimer-inactive.png) | Ein manuell angelegter inaktiver Timer. Entweder ein einmaliger oder wiederholender Timer, wie sie der VDR standardmäßig zur Verfügung stellt. |
 | ![](.images/manualtimer-active.png) | Der Timer ist aktiv. |
 | ![](.images/searchtimer-inactive.png) | Ein von einer Suche automatisch angelegter inaktiver Timer. Solche Suchtimer werden über das Plugin EPGSearch zur Verfügung gestellt und werden über den Programmteil Suchtimer verwaltet. | 
 | ![](.images/searchtimer-active.png) | Ein aktiver Timer von einem Suchtimer erzeugt. |
@@ -75,7 +75,20 @@ Suchtimer werden vom Plugin EPGSearch bereitgestellt. Sie durchsuchen das EPG un
 | ![](.images/trash.png) | Suchtimer löschen |
 
 
-
 ## Aufnahmen
-## test
-## Installation
+
+<img src=".images/aufnahmen.jpg" width=33%>
+
+Bei den Aufnahmen gibt es zwei Ansichten mit unterschiedlichen Sortier- und Filterfunktionen. In den Einstellungen kann voreingestellt werden, welche Ansicht standardmäßig aktiv sein soll.
+
+### Baumansicht
+Die Baumansicht zeigt die Aufnahmen so wie der VDR in einer Baumstruktur mit Ordnern und Videodateien. Die Sortierung wirkt sich nur auf die Videodateien aus. Sortiert werden kann nach Aufnahmedatum oder Titel. **Hinweis:** Um eine Ebene höher zu gelangen muß das Icon (Pfeil nach oben) im Kopfbereich genutzt werden.
+
+### Listenansicht
+Die Listenansicht zeigt alle Videodateien in einer einzigen Liste an. Sie kann nach Aufnahmedatum oder alphabetisch nach dem Titel sortiert werden, auch in umgekehrter Reihenfolge. Daneben existiert im Fußbereich noch eine zweite Seite mit einem Textfilter, der sowohl Titel als auch Untertitel durchsucht.
+
+
+| Icon/Farbe | Beschreibung |
+| --- | --- |
+| ![](.images/videfile-new.png) | Blau: Die Aufnahme wurde vom VDR als neu eingestuft. Bereits abgespielte Aufnahmen sind weiß. |
+| ![](.images/videofile-cut.png) | Die Schere zeigt eine geschnittene Aufnahme an. Bei den Farben gilt dasselbe wie oben. |
