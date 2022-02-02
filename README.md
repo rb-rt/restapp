@@ -65,6 +65,8 @@ Tippt man auf die Beschreibung erscheint ein weiteres Fenster mit Detailinformat
 
 Suchtimer werden vom Plugin EPGSearch bereitgestellt. Sie durchsuchen das EPG und setzen automatisch einen Timer, wenn die Suchkriterien zutreffen. Eine genaue Beschreibung findet man bei der Dokumentation. Suchtimer werden in der Timerliste mit einem anderen Icon gekennzeichnet.
 
+**Hinweis:** Die Häkchenicons schalten den jeweiligen Status sofort um (aktiv/inaktiv).
+
 | Icon | Beschreibung |
 | --- | --- |
 | ![](.images/manualtimer-inactive.png) | Der Suchtimer ist nicht aktiv, d.h. in den Suchkriterien ist das Feld *Als Suchtimer verwenden* nicht gesetzt.  |
@@ -81,7 +83,7 @@ Suchtimer werden vom Plugin EPGSearch bereitgestellt. Sie durchsuchen das EPG un
 Bei den Aufnahmen gibt es zwei Ansichten mit unterschiedlichen Sortier- und Filterfunktionen. In den Einstellungen kann voreingestellt werden, welche Ansicht standardmäßig aktiv sein soll.
 
 ### Baumansicht
-Die Baumansicht zeigt die Aufnahmen so wie der VDR in einer Baumstruktur mit Ordnern und Videodateien. Die Sortierung wirkt sich nur auf die Videodateien aus. Sortiert werden kann nach Aufnahmedatum oder Titel.  
+Die Baumansicht zeigt die Aufnahmen so wie der VDR in einer Baumstruktur mit Ordnern und Videodateien. Die Sortierung wirkt sich nur auf die Videodateien aus. Sortiert werden kann nach Aufnahmedatum oder Titel nur in aufsteigender Reihenfolge.  
 **Hinweis:** Um eine Ebene höher zu gelangen muß das Icon (Pfeil nach oben) im Kopfbereich genutzt werden.
 
 ### Listenansicht
