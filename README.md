@@ -50,7 +50,7 @@ Tippt man auf die Beschreibung erscheint ein weiteres Fenster mit Detailinformat
 **Hinweis:** Die Timericons schalten den jeweiligen Status sofort um. So wird ein aktiver Timer deaktiviert und umgekehrt.
 
 | Icon | Beschreibung |
-| --- | --- |
+| --- | :--- |
 | ![](.images/manualtimer-inactive.png) | Ein manuell angelegter inaktiver Timer. Entweder ein einmaliger oder wiederholender Timer, wie sie der VDR standardmäßig zur Verfügung stellt. |
 | ![](.images/manualtimer-active.png) | Der Timer ist aktiv. |
 | ![](.images/searchtimer-inactive.png) | Ein von einer Suche automatisch angelegter inaktiver Timer. Solche Suchtimer werden über das Plugin EPGSearch zur Verfügung gestellt und werden über den Programmteil Suchtimer verwaltet. | 
@@ -68,7 +68,7 @@ Suchtimer werden vom Plugin EPGSearch bereitgestellt. Sie durchsuchen das EPG un
 **Hinweis:** Die Häkchenicons schalten den jeweiligen Status sofort um (aktiv/inaktiv).
 
 | Icon | Beschreibung |
-| --- | --- |
+| --- | :--- |
 | ![](.images/manualtimer-inactive.png) | Der Suchtimer ist nicht aktiv, d.h. in den Suchkriterien ist das Feld *Als Suchtimer verwenden* nicht gesetzt.  |
 | ![](.images/manualtimer-active.png) | Ein aktiver Suchtimer. Das Feld *Als Suchtimer verwenden* ist angekreuzt. Es sagt aber nichts darüber aus, welche Aktion ausgeführt wird *(Aufnehmen, per OSD ankündigen, ...)*. |
 | ![](.images/edit.png) | Suchtimer bearbeiten |
@@ -91,6 +91,6 @@ Die Listenansicht zeigt alle Videodateien in einer einzigen Liste an. Sie kann n
 
 
 | Icon/Farbe | Beschreibung |
-| --- | --- |
+| --- | :--- |
 | ![](.images/videofile-new.png) | Blau: Die Aufnahme wurde vom VDR als neu eingestuft. Bereits abgespielte Aufnahmen sind weiß. |
 | ![](.images/videofile-cut.png) | Die Schere zeigt eine geschnittene Aufnahme an. Bei den Farben gilt dasselbe wie oben. |
