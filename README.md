@@ -1,7 +1,3 @@
-## Inhaltsangabe
-
-* Übersicht
-
 ## Beschreibung
 Eine App für Android-OS zum Bedienen eines VDR. Sie ermöglicht unter anderem
 * [Programm](#programm): Eine Programmübersicht (EPG) anzeigen (Was läuft jetzt, als Nächstes etc.) Daraus läßt sich ein Timer anlegen oder eine Suche ausführen. Über das Suchergebnis kann ein Suchtimer angelegt werden.
@@ -13,7 +9,9 @@ Eine App für Android-OS zum Bedienen eines VDR. Sie ermöglicht unter anderem
 
 Auf dem VDR sind die Plugins RestfulApi und EPGSearch notwendig. Weitere Maßnahmen sind nicht erforderlich. 
 
-Anstatt der Kanalnummer können auch Kanalicons ausgegeben werden. 
+Anstatt der Kanalnummer können auch Kanalicons ausgegeben werden. Dazu muß dem Plugin der Pfad zu den Icons mitgegeben werden. Nähere Informationen stehen in der Api.html bei der [RestfulApi-Dokumentation](https://github.com/yavdr/vdr-plugin-restfulapi)
+
+Empfehlenswerte Icons sind z.B. die [Picons2VDR](https://github.com/MegaV0lt/Picons2VDR) 
 
 ## Programm
 
